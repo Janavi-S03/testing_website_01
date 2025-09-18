@@ -1,0 +1,3 @@
+# Automatically request reviews from owners matching changed paths
+*       @your-username @janhvi-username
+/docs/* @your-username
